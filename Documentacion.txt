@@ -1,0 +1,3 @@
+https://developer.paypal.com/docs/archive/checkout/integrate/
+
+https://github.com/paypal/PayPal-NET-SDK/wiki/Installation-NuGet
